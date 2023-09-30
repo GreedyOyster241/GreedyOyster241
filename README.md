@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GreedyOyster241
+- 👋 Hi, I’m @GreedyOyster241, AKA GR33D
 - 👀 I’m interested in developing music and creating and developing software
 - 🌱 I’m currently learning C#, Java
 - 📫 How to reach me:
